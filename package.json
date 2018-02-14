@@ -1,0 +1,29 @@
+{
+  "name": "stack-bottom-to-top",
+  "version": "1.0.0",
+  "description": "A web development tutorial series that is explained plainly.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neivars/stack-bottom-to-top.git"
+  },
+  "keywords": [
+    "tutorial",
+    "web",
+    "development",
+    "beginner"
+  ],
+  "author": "Raul Neiva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neivars/stack-bottom-to-top/issues"
+  },
+  "homepage": "https://github.com/neivars/stack-bottom-to-top#readme"
+}
